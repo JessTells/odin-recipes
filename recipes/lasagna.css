@@ -1,0 +1,15 @@
+img {
+    width: 200px
+}
+
+h1 {
+    color:crimson;
+}
+
+ul {
+    list-style: none;
+}
+
+* {
+    color: purple;
+}
